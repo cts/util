@@ -3,7 +3,7 @@
   "version": "0.8.0",
   "main": "lib/index.js",
   "dependencies": {
-    "component/underscore": "*",
+    "components/underscore": "*",
     "component/jquery": "*"
   }
 }
