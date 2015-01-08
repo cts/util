@@ -1,0 +1,25 @@
+{
+  "name": "cts-util",
+  "description": "Utility Functions for Cascading Tree Sheets.",
+  "homepage": "http://www.treesheets.org",
+  "version": "0.0.9",
+  "author": {
+    "name":"Ted Benson",
+    "email":"eob@csail.mit.edu"
+  },
+  "keywords": ["treesheets", "cts", "structure", "cascading tree sheets", "cascading treesheets", "tree"],
+  "directories": {"release": "./release/"},
+  "licenses": [{
+    "type":"BSD",
+    "url":"http://opensource.org/licenses/bsd-license.php"
+  }],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/cts/cts-util"
+  },
+  "dependencies": {
+    "underscore": "*",
+    "jquery": "*"
+  },
+  "engines": { "node": ">= 0.8.14" }
+}
