@@ -2,7 +2,7 @@
   "name": "cts-util",
   "description": "Utility Functions for Cascading Tree Sheets.",
   "homepage": "http://www.treesheets.org",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "author": {
     "name":"Ted Benson",
     "email":"eob@csail.mit.edu"
